@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-### Hi there  👋
-
 ## 🔭  What I do ?
 
 Seamlessly transforming ideas into mobile experiences.
@@ -57,4 +54,3 @@ And touch base  🎶  I like meeting new people.
 -   Have fun with friends
 
 Thank you for taking the time to read this. I truly appreciate your investment of time and attention.
--->
