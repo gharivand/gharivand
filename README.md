@@ -33,7 +33,7 @@ Seamlessly transforming ideas into mobile and web experiences.
 
 ## 🤔  ABOUT ME?
 
-I have a strong background in web development, starting with HTML, CSS, and basic JavaScript during my high school years in 2005. In university, I obtained an Associate's degree where I further developed my skills in JavaScript, C++, and database management. Since 2016, I have been working as a dedicated React Native developer, specializing in creating seamless and engaging mobile applications. I am passionate about staying up-to-date with industry advancements and committed to delivering exceptional results in the ever-evolving field of mobile app development.
+I have a strong background in web development, starting with HTML, CSS, and basic JavaScript during my high school years in 2005. In university, I obtained an Associate's degree where I further developed my skills in JavaScript, C++, and database management. Since 2016, I have been working as a dedicated React/React Native developer, specializing in creating seamless and engaging mobile and web applications. I am passionate about staying up-to-date with industry advancements and committed to delivering exceptional results in the ever-evolving field of web & mobile app development.
 
 ## 💬  Portfoliooo  🎵
 
