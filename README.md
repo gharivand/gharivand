@@ -6,6 +6,7 @@ Seamlessly transforming ideas into mobile experiences.
 
 ## 🌱  The Full Shebang
 
+-   Web app development
 -   Cross-platform mobile app development
 -   UI/UX design and implementation
 -   State management (e.g., Redux or MobX)
@@ -18,9 +19,9 @@ Seamlessly transforming ideas into mobile experiences.
 
 ## 👯  Skills
 
-- `React Native`  
-- `JavaScript`
 - `React.js`
+- `React Native`  
+- `JavaScript, TypeScript`
 - `UI/UX`
 - `Redux or MobX`
 - `RESTful, GraphQL`
