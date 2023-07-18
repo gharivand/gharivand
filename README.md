@@ -2,7 +2,7 @@
 
 ## 🔭  What I do ?
 
-Seamlessly transforming ideas into mobile experiences.
+Seamlessly transforming ideas into mobile and web experiences.
 
 ## 🌱  The Full Shebang
 
